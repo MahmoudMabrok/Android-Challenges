@@ -10,5 +10,5 @@ UI Challenge
 
 ## Steps 
 - implemnt UI 
-- add xml file/s 
-- add screenshots 
+- uplaod xml file/s 
+- uplaod screenshots 
