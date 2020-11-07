@@ -6,6 +6,7 @@ UI Challenge
 
 ## Requirement 
 - Implement screen above
+- non black view is single view [here is TextView]
 - replace Name with your name 
 
 ## Steps 
